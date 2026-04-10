@@ -1,0 +1,314 @@
+{
+  "404": {
+    "frontmatter": {
+      "title": "Error 404",
+      "layout": "404"
+    },
+    "content": "\n## Page Not Found\n"
+  },
+  "_index": {
+    "frontmatter": {
+      "banner": {
+        "title": "Let us solve your critical website development challenges",
+        "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim maxime corporis cumque <br/> totam aliquid nam sint inventore optio modi neque laborum officiis necessitatibus.",
+        "image": "/images/banner-art.svg",
+        "button": {
+          "label": "Contact Us",
+          "link": "/contact"
+        }
+      },
+      "feature": {
+        "title": "Something You Need To Know",
+        "features": [
+          {
+            "name": "Clean Code",
+            "icon": "/images/code.svg",
+            "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+          },
+          {
+            "name": "Object Oriented",
+            "icon": "/images/oop.svg",
+            "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+          },
+          {
+            "name": "24h Service",
+            "icon": "/images/user-clock.svg",
+            "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+          },
+          {
+            "name": "Value for Money",
+            "icon": "/images/love.svg",
+            "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+          },
+          {
+            "name": "Faster Response",
+            "icon": "/images/speedometer.svg",
+            "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+          },
+          {
+            "name": "Cloud Support",
+            "icon": "/images/cloud.svg",
+            "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+          }
+        ]
+      },
+      "services": [
+        {
+          "title": "It is the most advanced digital marketing and it company.",
+          "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat.",
+          "images": [
+            "/images/service-slide-1.png",
+            "/images/service-slide-2.png",
+            "/images/service-slide-3.png"
+          ],
+          "button": {
+            "enable": true,
+            "label": "Check it out",
+            "link": "/contact"
+          }
+        },
+        {
+          "title": "It is a privately owned Information and cyber security company",
+          "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat.",
+          "images": [
+            "/images/service-slide-1.png"
+          ],
+          "button": {
+            "enable": true,
+            "label": "Check it out",
+            "link": "/contact"
+          }
+        },
+        {
+          "title": "It’s a team of experienced and skilled people with distributions",
+          "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat.",
+          "images": [
+            "/images/service-slide-1.png",
+            "/images/service-slide-2.png",
+            "/images/service-slide-3.png"
+          ],
+          "button": {
+            "enable": true,
+            "label": "Check it out",
+            "link": "/contact"
+          }
+        },
+        {
+          "title": "A company standing different from others",
+          "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat.",
+          "images": [
+            "/images/service-slide-1.png",
+            "/images/service-slide-2.png",
+            "/images/service-slide-3.png"
+          ],
+          "button": {
+            "enable": true,
+            "label": "Check it out",
+            "link": "/contact"
+          }
+        }
+      ],
+      "workflow": {
+        "title": "Experience the best workflow with us",
+        "image": "/images/banner.svg",
+        "description": ""
+      },
+      "call_to_action": {
+        "title": "Ready to get started?",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur.",
+        "image": "/images/cta.svg",
+        "button": {
+          "enable": true,
+          "label": "Contact Us",
+          "link": "/contact"
+        }
+      }
+    },
+    "content": ""
+  },
+  "blogs": {
+    "_index": {
+      "frontmatter": {
+        "title": "Latest news",
+        "description": "this is meta description"
+      },
+      "content": ""
+    },
+    "blog-1": {
+      "frontmatter": {
+        "title": "What you need to know about Photography",
+        "description": "Heading example Here is example of hedings. You can use this heading by following markdownify rules.",
+        "image": "/images/blog-1.jpg",
+        "date": "2022-04-04T05:00:00.000Z",
+        "draft": false
+      },
+      "content": "\n##### Heading example\n\nHere is an example of headings. You can use this heading by the following markdown rules. For example: use `#` for heading 1 and use `######` for heading 6.\n\n# Heading 1\n\n## Heading 2\n\n### Heading 3\n\n#### Heading 4\n\n##### Heading 5\n\n###### Heading 6\n\n---\n\n##### Emphasis\n\nThe emphasis, aka italics, with _asterisks_ or _underscores_.\n\nStrong emphasis, aka bold, with **asterisks** or **underscores**.\n\nThe combined emphasis with **asterisks and _underscores_**.\n\nStrikethrough uses two tildes. ~~Scratch this.~~\n\n---\n\n##### Link\n\n[I'm an inline-style link](https://www.google.com)\n\n[I'm an inline-style link with title](https://www.google.com \"Google's Homepage\")\n\n[I'm a reference-style link][arbitrary case-insensitive reference text]\n\n[I'm a relative reference to a repository file](../blob/master/LICENSE)\n\n[You can use numbers for reference-style link definitions][1]\n\nOr leave it empty and use the [link text itself].\n\nexample.com (but not on Github, for example).\n\nSome text to show that the reference links can follow later.\n\n[arbitrary case-insensitive reference text]: https://www.themefisher.com\n[1]: https://gethugothemes.com\n[link text itself]: https://www.getjekyllthemes.com\n\n---\n\n##### Paragraph\n\nLorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim maxime corporis cumque totam aliquid nam sint inventore optio modi neque laborum officiis necessitatibus, facilis placeat pariatur! Voluptatem, sed harum pariatur adipisci voluptates voluptatum cumque, porro sint minima similique magni perferendis fuga! Optio vel ipsum excepturi tempore reiciendis id quidem? Vel in, doloribus debitis nesciunt fugit sequi magnam accusantium modi neque quis, vitae velit, pariatur harum autem a! Velit impedit atque maiores animi possimus asperiores natus repellendus excepturi sint architecto eligendi non, omnis nihil. Facilis, doloremque illum. Fugit optio laborum minus debitis natus illo perspiciatis corporis voluptatum rerum laboriosam.\n\n---\n\n##### Ordered List\n\n1. List item\n2. List item\n3. List item\n4. List item\n5. List item\n\n---\n\n##### Unordered List\n\n- List item\n- List item\n- List item\n- List item\n- List item\n\n---\n\n##### Code and Syntax Highlighting\n\nThis is an `Inline code` sample.\n\n```javascript\nvar s = \"JavaScript syntax highlighting\";\nalert(s);\n```\n\n```python\ns = \"Python syntax highlighting\"\nprint s\n```\n\n---\n\n##### Blockquote\n\n> This is a blockquote example.\n\n---\n\n##### Inline HTML\n\nYou can also use raw HTML in your Markdown, and it'll mostly work pretty well.\n\n<dl>\n  <dt>Definition list</dt>\n  <dd>Is something people use sometimes.</dd>\n\n  <dt>Markdown in HTML</dt>\n  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>\n</dl>\n\n---\n\n##### Tables\n\n| Tables        |      Are      |  Cool |\n| ------------- | :-----------: | ----: |\n| col 3 is      | right-aligned | $1600 |\n| col 2 is      |   centered    |   $12 |\n| zebra stripes |   are neat    |    $1 |\n\nThere must be at least 3 dashes separating each header cell.\nThe outer pipes (|) are optional, and you don't need to make the\nraw Markdown line up prettily. You can also use inline Markdown.\n\n| Markdown | Less      | Pretty     |\n| -------- | --------- | ---------- |\n| _Still_  | `renders` | **nicely** |\n| 1        | 2         | 3          |\n\n---\n\n##### Images\n\n![service](/images/service-slide-1.png \"service\")\n\n---\n\n##### Youtube video\n\n<YoutubePlayer id=\"C0DPdy98e4c\" title=\"YouTube Video\" />\n"
+    },
+    "blog-2": {
+      "frontmatter": {
+        "title": "How to make toys from old Olarpaper",
+        "description": "Heading example Here is example of hedings. You can use this heading by following markdownify rules.",
+        "image": "/images/blog-2.jpg",
+        "date": "2022-05-04T05:00:00.000Z",
+        "draft": false
+      },
+      "content": "\n##### Heading example\n\nHere is an example of headings. You can use this heading by the following markdown rules. For example: use `#` for heading 1 and use `######` for heading 6.\n\n# Heading 1\n\n## Heading 2\n\n### Heading 3\n\n#### Heading 4\n\n##### Heading 5\n\n###### Heading 6\n\n---\n\n##### Emphasis\n\nThe emphasis, aka italics, with _asterisks_ or _underscores_.\n\nStrong emphasis, aka bold, with **asterisks** or **underscores**.\n\nThe combined emphasis with **asterisks and _underscores_**.\n\nStrikethrough uses two tildes. ~~Scratch this.~~\n\n---\n\n##### Link\n\n[I'm an inline-style link](https://www.google.com)\n\n[I'm an inline-style link with title](https://www.google.com \"Google's Homepage\")\n\n[I'm a reference-style link][arbitrary case-insensitive reference text]\n\n[I'm a relative reference to a repository file](../blob/master/LICENSE)\n\n[You can use numbers for reference-style link definitions][1]\n\nOr leave it empty and use the [link text itself].\n\nexample.com (but not on Github, for example).\n\nSome text to show that the reference links can follow later.\n\n[arbitrary case-insensitive reference text]: https://www.themefisher.com\n[1]: https://gethugothemes.com\n[link text itself]: https://www.getjekyllthemes.com\n\n---\n\n##### Paragraph\n\nLorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim maxime corporis cumque totam aliquid nam sint inventore optio modi neque laborum officiis necessitatibus, facilis placeat pariatur! Voluptatem, sed harum pariatur adipisci voluptates voluptatum cumque, porro sint minima similique magni perferendis fuga! Optio vel ipsum excepturi tempore reiciendis id quidem? Vel in, doloribus debitis nesciunt fugit sequi magnam accusantium modi neque quis, vitae velit, pariatur harum autem a! Velit impedit atque maiores animi possimus asperiores natus repellendus excepturi sint architecto eligendi non, omnis nihil. Facilis, doloremque illum. Fugit optio laborum minus debitis natus illo perspiciatis corporis voluptatum rerum laboriosam.\n\n---\n\n##### Ordered List\n\n1. List item\n2. List item\n3. List item\n4. List item\n5. List item\n\n---\n\n##### Unordered List\n\n- List item\n- List item\n- List item\n- List item\n- List item\n\n---\n\n##### Code and Syntax Highlighting\n\nThis is an `Inline code` sample.\n\n```javascript\nvar s = \"JavaScript syntax highlighting\";\nalert(s);\n```\n\n```python\ns = \"Python syntax highlighting\"\nprint s\n```\n\n---\n\n##### Blockquote\n\n> This is a blockquote example.\n\n---\n\n##### Inline HTML\n\nYou can also use raw HTML in your Markdown, and it'll mostly work pretty well.\n\n<dl>\n  <dt>Definition list</dt>\n  <dd>Is something people use sometimes.</dd>\n\n  <dt>Markdown in HTML</dt>\n  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>\n</dl>\n\n---\n\n##### Tables\n\n| Tables        |      Are      |  Cool |\n| ------------- | :-----------: | ----: |\n| col 3 is      | right-aligned | $1600 |\n| col 2 is      |   centered    |   $12 |\n| zebra stripes |   are neat    |    $1 |\n\nThere must be at least 3 dashes separating each header cell.\nThe outer pipes (|) are optional, and you don't need to make the\nraw Markdown line up prettily. You can also use inline Markdown.\n\n| Markdown | Less      | Pretty     |\n| -------- | --------- | ---------- |\n| _Still_  | `renders` | **nicely** |\n| 1        | 2         | 3          |\n\n---\n\n##### Images\n\n![service](/images/service-slide-1.png \"service\")\n\n---\n\n##### Youtube video\n\n<YoutubePlayer id=\"C0DPdy98e4c\" title=\"YouTube Video\" />\n"
+    },
+    "blog-3": {
+      "frontmatter": {
+        "title": "What you need to know about Photography",
+        "description": "Heading example Here is example of hedings. You can use this heading by following markdownify rules.",
+        "image": "/images/blog-3.jpg",
+        "date": "2022-06-02T06:00:00.000Z",
+        "draft": false
+      },
+      "content": "\n##### Heading example\n\nHere is an example of headings. You can use this heading by the following markdown rules. For example: use `#` for heading 1 and use `######` for heading 6.\n\n# Heading 1\n\n## Heading 2\n\n### Heading 3\n\n#### Heading 4\n\n##### Heading 5\n\n###### Heading 6\n\n---\n\n##### Emphasis\n\nThe emphasis, aka italics, with _asterisks_ or _underscores_.\n\nStrong emphasis, aka bold, with **asterisks** or **underscores**.\n\nThe combined emphasis with **asterisks and _underscores_**.\n\nStrikethrough uses two tildes. ~~Scratch this.~~\n\n---\n\n##### Link\n\n[I'm an inline-style link](https://www.google.com)\n\n[I'm an inline-style link with title](https://www.google.com \"Google's Homepage\")\n\n[I'm a reference-style link][arbitrary case-insensitive reference text]\n\n[I'm a relative reference to a repository file](../blob/master/LICENSE)\n\n[You can use numbers for reference-style link definitions][1]\n\nOr leave it empty and use the [link text itself].\n\nexample.com (but not on Github, for example).\n\nSome text to show that the reference links can follow later.\n\n[arbitrary case-insensitive reference text]: https://www.themefisher.com\n[1]: https://gethugothemes.com\n[link text itself]: https://www.getjekyllthemes.com\n\n---\n\n##### Paragraph\n\nLorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim maxime corporis cumque totam aliquid nam sint inventore optio modi neque laborum officiis necessitatibus, facilis placeat pariatur! Voluptatem, sed harum pariatur adipisci voluptates voluptatum cumque, porro sint minima similique magni perferendis fuga! Optio vel ipsum excepturi tempore reiciendis id quidem? Vel in, doloribus debitis nesciunt fugit sequi magnam accusantium modi neque quis, vitae velit, pariatur harum autem a! Velit impedit atque maiores animi possimus asperiores natus repellendus excepturi sint architecto eligendi non, omnis nihil. Facilis, doloremque illum. Fugit optio laborum minus debitis natus illo perspiciatis corporis voluptatum rerum laboriosam.\n\n---\n\n##### Ordered List\n\n1. List item\n2. List item\n3. List item\n4. List item\n5. List item\n\n---\n\n##### Unordered List\n\n- List item\n- List item\n- List item\n- List item\n- List item\n\n---\n\n##### Code and Syntax Highlighting\n\nThis is an `Inline code` sample.\n\n```javascript\nvar s = \"JavaScript syntax highlighting\";\nalert(s);\n```\n\n```python\ns = \"Python syntax highlighting\"\nprint s\n```\n\n---\n\n##### Blockquote\n\n> This is a blockquote example.\n\n---\n\n##### Inline HTML\n\nYou can also use raw HTML in your Markdown, and it'll mostly work pretty well.\n\n<dl>\n  <dt>Definition list</dt>\n  <dd>Is something people use sometimes.</dd>\n\n  <dt>Markdown in HTML</dt>\n  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>\n</dl>\n\n---\n\n##### Tables\n\n| Tables        |      Are      |  Cool |\n| ------------- | :-----------: | ----: |\n| col 3 is      | right-aligned | $1600 |\n| col 2 is      |   centered    |   $12 |\n| zebra stripes |   are neat    |    $1 |\n\nThere must be at least 3 dashes separating each header cell.\nThe outer pipes (|) are optional, and you don't need to make the\nraw Markdown line up prettily. You can also use inline Markdown.\n\n| Markdown | Less      | Pretty     |\n| -------- | --------- | ---------- |\n| _Still_  | `renders` | **nicely** |\n| 1        | 2         | 3          |\n\n---\n\n##### Images\n\n![service](/images/service-slide-1.png \"service\")\n\n---\n\n##### Youtube video\n\n<YoutubePlayer id=\"C0DPdy98e4c\" title=\"YouTube Video\" />\n"
+    },
+    "blog-4": {
+      "frontmatter": {
+        "title": "How to make toys from old Olarpaper",
+        "description": "Heading example Here is example of hedings. You can use this heading by following markdownify rules.",
+        "image": "/images/blog-4.jpg",
+        "date": "2022-07-04T05:00:00.000Z",
+        "draft": false
+      },
+      "content": "\n##### Heading example\n\nHere is an example of headings. You can use this heading by the following markdown rules. For example: use `#` for heading 1 and use `######` for heading 6.\n\n# Heading 1\n\n## Heading 2\n\n### Heading 3\n\n#### Heading 4\n\n##### Heading 5\n\n###### Heading 6\n\n---\n\n##### Emphasis\n\nThe emphasis, aka italics, with _asterisks_ or _underscores_.\n\nStrong emphasis, aka bold, with **asterisks** or **underscores**.\n\nThe combined emphasis with **asterisks and _underscores_**.\n\nStrikethrough uses two tildes. ~~Scratch this.~~\n\n---\n\n##### Link\n\n[I'm an inline-style link](https://www.google.com)\n\n[I'm an inline-style link with title](https://www.google.com \"Google's Homepage\")\n\n[I'm a reference-style link][arbitrary case-insensitive reference text]\n\n[I'm a relative reference to a repository file](../blob/master/LICENSE)\n\n[You can use numbers for reference-style link definitions][1]\n\nOr leave it empty and use the [link text itself].\n\nexample.com (but not on Github, for example).\n\nSome text to show that the reference links can follow later.\n\n[arbitrary case-insensitive reference text]: https://www.themefisher.com\n[1]: https://gethugothemes.com\n[link text itself]: https://www.getjekyllthemes.com\n\n---\n\n##### Paragraph\n\nLorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim maxime corporis cumque totam aliquid nam sint inventore optio modi neque laborum officiis necessitatibus, facilis placeat pariatur! Voluptatem, sed harum pariatur adipisci voluptates voluptatum cumque, porro sint minima similique magni perferendis fuga! Optio vel ipsum excepturi tempore reiciendis id quidem? Vel in, doloribus debitis nesciunt fugit sequi magnam accusantium modi neque quis, vitae velit, pariatur harum autem a! Velit impedit atque maiores animi possimus asperiores natus repellendus excepturi sint architecto eligendi non, omnis nihil. Facilis, doloremque illum. Fugit optio laborum minus debitis natus illo perspiciatis corporis voluptatum rerum laboriosam.\n\n---\n\n##### Ordered List\n\n1. List item\n2. List item\n3. List item\n4. List item\n5. List item\n\n---\n\n##### Unordered List\n\n- List item\n- List item\n- List item\n- List item\n- List item\n\n---\n\n##### Code and Syntax Highlighting\n\nThis is an `Inline code` sample.\n\n```javascript\nvar s = \"JavaScript syntax highlighting\";\nalert(s);\n```\n\n```python\ns = \"Python syntax highlighting\"\nprint s\n```\n\n---\n\n##### Blockquote\n\n> This is a blockquote example.\n\n---\n\n##### Inline HTML\n\nYou can also use raw HTML in your Markdown, and it'll mostly work pretty well.\n\n<dl>\n  <dt>Definition list</dt>\n  <dd>Is something people use sometimes.</dd>\n\n  <dt>Markdown in HTML</dt>\n  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>\n</dl>\n\n---\n\n##### Tables\n\n| Tables        |      Are      |  Cool |\n| ------------- | :-----------: | ----: |\n| col 3 is      | right-aligned | $1600 |\n| col 2 is      |   centered    |   $12 |\n| zebra stripes |   are neat    |    $1 |\n\nThere must be at least 3 dashes separating each header cell.\nThe outer pipes (|) are optional, and you don't need to make the\nraw Markdown line up prettily. You can also use inline Markdown.\n\n| Markdown | Less      | Pretty     |\n| -------- | --------- | ---------- |\n| _Still_  | `renders` | **nicely** |\n| 1        | 2         | 3          |\n\n---\n\n##### Images\n\n![service](/images/service-slide-1.png \"service\")\n\n---\n\n##### Youtube video\n\n<YoutubePlayer id=\"C0DPdy98e4c\" title=\"YouTube Video\" />\n"
+    },
+    "blog-5": {
+      "frontmatter": {
+        "title": "Adversus is a web-based dialer and practical CRM solution",
+        "description": "Heading example Here is example of hedings. You can use this heading by following markdownify rules.",
+        "image": "/images/blog-4.jpg",
+        "date": "2022-08-04T05:00:00.000Z",
+        "draft": false
+      },
+      "content": "\n##### Heading example\n\nHere is an example of headings. You can use this heading by the following markdown rules. For example: use `#` for heading 1 and use `######` for heading 6.\n\n# Heading 1\n\n## Heading 2\n\n### Heading 3\n\n#### Heading 4\n\n##### Heading 5\n\n###### Heading 6\n\n---\n\n##### Emphasis\n\nThe emphasis, aka italics, with _asterisks_ or _underscores_.\n\nStrong emphasis, aka bold, with **asterisks** or **underscores**.\n\nThe combined emphasis with **asterisks and _underscores_**.\n\nStrikethrough uses two tildes. ~~Scratch this.~~\n\n---\n\n##### Link\n\n[I'm an inline-style link](https://www.google.com)\n\n[I'm an inline-style link with title](https://www.google.com \"Google's Homepage\")\n\n[I'm a reference-style link][arbitrary case-insensitive reference text]\n\n[I'm a relative reference to a repository file](../blob/master/LICENSE)\n\n[You can use numbers for reference-style link definitions][1]\n\nOr leave it empty and use the [link text itself].\n\nexample.com (but not on Github, for example).\n\nSome text to show that the reference links can follow later.\n\n[arbitrary case-insensitive reference text]: https://www.themefisher.com\n[1]: https://gethugothemes.com\n[link text itself]: https://www.getjekyllthemes.com\n\n---\n\n##### Paragraph\n\nLorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim maxime corporis cumque totam aliquid nam sint inventore optio modi neque laborum officiis necessitatibus, facilis placeat pariatur! Voluptatem, sed harum pariatur adipisci voluptates voluptatum cumque, porro sint minima similique magni perferendis fuga! Optio vel ipsum excepturi tempore reiciendis id quidem? Vel in, doloribus debitis nesciunt fugit sequi magnam accusantium modi neque quis, vitae velit, pariatur harum autem a! Velit impedit atque maiores animi possimus asperiores natus repellendus excepturi sint architecto eligendi non, omnis nihil. Facilis, doloremque illum. Fugit optio laborum minus debitis natus illo perspiciatis corporis voluptatum rerum laboriosam.\n\n---\n\n##### Ordered List\n\n1. List item\n2. List item\n3. List item\n4. List item\n5. List item\n\n---\n\n##### Unordered List\n\n- List item\n- List item\n- List item\n- List item\n- List item\n\n---\n\n##### Code and Syntax Highlighting\n\nThis is an `Inline code` sample.\n\n```javascript\nvar s = \"JavaScript syntax highlighting\";\nalert(s);\n```\n\n```python\ns = \"Python syntax highlighting\"\nprint s\n```\n\n---\n\n##### Blockquote\n\n> This is a blockquote example.\n\n---\n\n##### Inline HTML\n\nYou can also use raw HTML in your Markdown, and it'll mostly work pretty well.\n\n<dl>\n  <dt>Definition list</dt>\n  <dd>Is something people use sometimes.</dd>\n\n  <dt>Markdown in HTML</dt>\n  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>\n</dl>\n\n---\n\n##### Tables\n\n| Tables        |      Are      |  Cool |\n| ------------- | :-----------: | ----: |\n| col 3 is      | right-aligned | $1600 |\n| col 2 is      |   centered    |   $12 |\n| zebra stripes |   are neat    |    $1 |\n\nThere must be at least 3 dashes separating each header cell.\nThe outer pipes (|) are optional, and you don't need to make the\nraw Markdown line up prettily. You can also use inline Markdown.\n\n| Markdown | Less      | Pretty     |\n| -------- | --------- | ---------- |\n| _Still_  | `renders` | **nicely** |\n| 1        | 2         | 3          |\n\n---\n\n##### Images\n\n![service](/images/service-slide-1.png \"service\")\n\n---\n\n##### Youtube video\n\n<YoutubePlayer id=\"C0DPdy98e4c\" title=\"YouTube Video\" />\n"
+    }
+  },
+  "contact": {
+    "frontmatter": {
+      "title": "Contact Us",
+      "layout": "contact",
+      "draft": false,
+      "info": {
+        "title": "Why you should contact us!",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit recusandae voluptates doloremque veniam temporibus porro culpa ipsa, nisi soluta minima saepe laboriosam debitis nesciunt.",
+        "contacts": [
+          "phone: +88 125 256 452",
+          "Mail: [info@bigspring.com](mailto:info@bigspring.com)",
+          "Address: 360 Main rd, Rio, Brazil"
+        ]
+      }
+    },
+    "content": ""
+  },
+  "elements": {
+    "frontmatter": {
+      "title": "Elements",
+      "draft": false
+    },
+    "content": "\n#### Heading example\n\nHere is an example of headings. You can use this heading by the following markdown rules. For example: use `#` for heading 1 and use `######` for heading 6.\n\n# Heading 1\n\n## Heading 2\n\n### Heading 3\n\n#### Heading 4\n\n##### Heading 5\n\n###### Heading 6\n\n---\n\n### Emphasis\n\nThe emphasis, aka italics, with _asterisks_ or _underscores_.\n\nStrong emphasis, aka bold, with **asterisks** or **underscores**.\n\nThe combined emphasis with **asterisks and _underscores_**.\n\nStrikethrough uses two tildes. ~~Scratch this.~~\n\n---\n\n### Link\n\n[I'm an inline-style link](https://www.google.com)\n\n[I'm an inline-style link with title](https://www.google.com \"Google's Homepage\")\n\n[I'm a reference-style link][arbitrary case-insensitive reference text]\n\n[I'm a relative reference to a repository file](../blob/master/LICENSE)\n\n[You can use numbers for reference-style link definitions][1]\n\nOr leave it empty and use the [link text itself].\n\nexample.com (but not on Github, for example).\n\nSome text to show that the reference links can follow later.\n\n[arbitrary case-insensitive reference text]: https://www.themefisher.com\n[1]: https://gethugothemes.com\n[link text itself]: https://www.getjekyllthemes.com\n\n---\n\n### Paragraph\n\nLorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim maxime corporis cumque totam aliquid nam sint inventore optio modi neque laborum officiis necessitatibus, facilis placeat pariatur! Voluptatem, sed harum pariatur adipisci voluptates voluptatum cumque, porro sint minima similique magni perferendis fuga! Optio vel ipsum excepturi tempore reiciendis id quidem? Vel in, doloribus debitis nesciunt fugit sequi magnam accusantium modi neque quis, vitae velit, pariatur harum autem a! Velit impedit atque maiores animi possimus asperiores natus repellendus excepturi sint architecto eligendi non, omnis nihil. Facilis, doloremque illum. Fugit optio laborum minus debitis natus illo perspiciatis corporis voluptatum rerum laboriosam.\n\n---\n\n### Ordered List\n\n1. List item\n2. List item\n3. List item\n4. List item\n5. List item\n\n---\n\n### Unordered List\n\n- List item\n- List item\n- List item\n- List item\n- List item\n\n---\n\n### Code and Syntax Highlighting\n\nThis is an `Inline code` sample.\n\n```javascript\nvar s = \"JavaScript syntax highlighting\";\nalert(s);\n```\n\n```python\ns = \"Python syntax highlighting\"\nprint s\n```\n\n---\n\n### Blockquote\n\n> This is a blockquote example.\n\n---\n\n### Inline HTML\n\nYou can also use raw HTML in your Markdown, and it'll mostly work pretty well.\n\n<dl>\n  <dt>Definition list</dt>\n  <dd>Is something people use sometimes.</dd>\n\n  <dt>Markdown in HTML</dt>\n  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>\n</dl>\n\n---\n\n### Tables\n\n| Tables        |      Are      |  Cool |\n| ------------- | :-----------: | ----: |\n| col 3 is      | right-aligned | $1600 |\n| col 2 is      |   centered    |   $12 |\n| zebra stripes |   are neat    |    $1 |\n\nThere must be at least 3 dashes separating each header cell.\nThe outer pipes (|) are optional, and you don't need to make the\nraw Markdown line up prettily. You can also use inline Markdown.\n\n| Markdown | Less      | Pretty     |\n| -------- | --------- | ---------- |\n| _Still_  | `renders` | **nicely** |\n| 1        | 2         | 3          |\n"
+  },
+  "faq": {
+    "frontmatter": {
+      "title": "Frequently Asked Questions",
+      "layout": "faq",
+      "draft": false,
+      "faqs": [
+        {
+          "title": "Will updates also be free?",
+          "answer": "Lorem, [link](https://www.example.com) ipsum dolor sit amet consectetur adipisicing elit. Cumque praesentium nisi officiis maiores quia sapiente totam omnis vel sequi corporis ipsa incidunt reprehenderit recusandae maxime perspiciatis iste placeat architecto, mollitia delectus ut ab quibusdam. Magnam cumque numquam tempore reprehenderit illo, unde cum omnis vel sed temporibus, repudiandae impedit nam ad enim porro, qui labore fugiat quod suscipit fuga necessitatibus. Perferendis, ipsum? Cum, reprehenderit. Sapiente atque quam vitae, magnam dolore consequatur temporibus harum odit ab id quo qui aspernatur aliquid officiis sit error asperiores eveniet quibusdam, accusantium enim recusandae quas ea est! Quaerat omnis, placeat vitae laboriosam doloremque recusandae mollitia minima!"
+        },
+        {
+          "title": "Discounts for students and Non Profit Organizations?",
+          "answer": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Cumque praesentium nisi officiis maiores quia sapiente totam omnis vel sequi corporis ipsa incidunt reprehenderit recusandae maxime perspiciatis iste placeat architecto, mollitia delectus [link](https://www.example.com) ut ab quibusdam. Magnam cumque numquam tempore reprehenderit illo, unde cum omnis vel sed temporibus, repudiandae impedit nam ad enim porro, qui labore fugiat quod suscipit fuga necessitatibus. Perferendis, ipsum? Cum, reprehenderit. Sapiente atque quam vitae, magnam dolore consequatur temporibus harum odit ab id quo qui aspernatur aliquid officiis sit error asperiores eveniet quibusdam, accusantium enim recusandae quas ea est! Quaerat omnis, placeat vitae laboriosam doloremque recusandae mollitia minima!"
+        },
+        {
+          "title": "I need something unique, Can you make it?",
+          "answer": "Lorem, [link](https://www.example.com) ipsum dolor sit amet consectetur adipisicing elit. Cumque praesentium nisi officiis maiores quia sapiente totam omnis vel sequi corporis ipsa incidunt reprehenderit recusandae maxime perspiciatis iste placeat architecto, mollitia delectus ut ab quibusdam. Magnam cumque numquam tempore reprehenderit illo, unde cum omnis vel sed temporibus, repudiandae impedit nam ad enim porro, qui labore fugiat quod suscipit fuga necessitatibus. Perferendis, ipsum? Cum, reprehenderit. Sapiente atque quam vitae, magnam dolore consequatur temporibus harum odit ab id quo qui aspernatur aliquid officiis sit error asperiores eveniet quibusdam, accusantium enim recusandae quas ea est! Quaerat omnis, placeat vitae laboriosam doloremque recusandae mollitia minima!"
+        },
+        {
+          "title": "Is there any documentation and support?",
+          "answer": "Lorem, [link](https://www.example.com) ipsum dolor sit amet consectetur adipisicing elit. Cumque praesentium nisi officiis maiores quia sapiente totam omnis vel sequi corporis ipsa incidunt reprehenderit recusandae maxime perspiciatis iste placeat architecto, mollitia delectus ut ab quibusdam. Magnam cumque numquam tempore reprehenderit illo, unde cum omnis vel sed temporibus, repudiandae impedit nam ad enim porro, qui labore fugiat quod suscipit fuga necessitatibus. Perferendis, ipsum? Cum, reprehenderit. Sapiente atque quam vitae, magnam dolore consequatur temporibus harum odit ab id quo qui aspernatur aliquid officiis sit error asperiores eveniet quibusdam, accusantium enim recusandae quas ea est! Quaerat omnis, placeat vitae laboriosam doloremque recusandae mollitia minima!"
+        },
+        {
+          "title": "Any refunds?",
+          "answer": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Cumque praesentium nisi officiis maiores quia sapiente totam omnis vel sequi corporis ipsa incidunt reprehenderit recusandae maxime perspiciatis iste placeat architecto, mollitia delectus [link](https://www.example.com) ut ab quibusdam. Magnam cumque numquam tempore reprehenderit illo, unde cum omnis vel sed temporibus, repudiandae impedit nam ad enim porro, qui labore fugiat quod suscipit fuga necessitatibus. Perferendis, ipsum? Cum, reprehenderit. Sapiente atque quam vitae, magnam dolore consequatur temporibus harum odit ab id quo qui aspernatur aliquid officiis sit error asperiores eveniet quibusdam, accusantium enim recusandae quas ea est! Quaerat omnis, placeat vitae laboriosam doloremque recusandae mollitia minima!"
+        },
+        {
+          "title": "What is a product key?",
+          "answer": "Lorem, [link](https://www.example.com) ipsum dolor sit amet consectetur adipisicing elit. Cumque praesentium nisi officiis maiores quia sapiente totam omnis vel sequi corporis ipsa incidunt reprehenderit recusandae maxime perspiciatis iste placeat architecto, mollitia delectus ut ab quibusdam. Magnam cumque numquam tempore reprehenderit illo, unde cum omnis vel sed temporibus, repudiandae impedit nam ad enim porro, qui labore fugiat quod suscipit fuga necessitatibus. Perferendis, ipsum? Cum, reprehenderit. Sapiente atque quam vitae, magnam dolore consequatur temporibus harum odit ab id quo qui aspernatur aliquid officiis sit error asperiores eveniet quibusdam, accusantium enim recusandae quas ea est! Quaerat omnis, placeat vitae laboriosam doloremque recusandae mollitia minima!"
+        }
+      ]
+    },
+    "content": ""
+  },
+  "pricing": {
+    "frontmatter": {
+      "title": "Pricing",
+      "layout": "pricing",
+      "draft": false,
+      "plans": [
+        {
+          "title": "Basic Plan",
+          "subtitle": "Best For Small Individuals",
+          "price": 49,
+          "type": "month",
+          "features": [
+            "Express Service",
+            "Customs Clearance",
+            "Time-Critical Services"
+          ],
+          "button": {
+            "label": "Get started for free",
+            "link": "/contact"
+          }
+        },
+        {
+          "title": "Professional Plan",
+          "subtitle": "Best For Professionals",
+          "price": 69,
+          "type": "month",
+          "recommended": true,
+          "features": [
+            "Express Service",
+            "Customs Clearance",
+            "Time-Critical Services",
+            "Cloud Service",
+            "Best Dashboard"
+          ],
+          "button": {
+            "label": "Get started",
+            "link": "/contact"
+          }
+        },
+        {
+          "title": "Business Plan",
+          "subtitle": "Best For Large Individuals",
+          "price": 99,
+          "type": "month",
+          "features": [
+            "Express Service",
+            "Customs Clearance",
+            "Time-Critical Services"
+          ],
+          "button": {
+            "label": "Get started",
+            "link": "/contact"
+          }
+        }
+      ],
+      "call_to_action": {
+        "title": "Need a larger plan?",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur.",
+        "image": "/images/cta.svg",
+        "button": {
+          "enable": true,
+          "label": "Contact Us",
+          "link": "/contact"
+        }
+      }
+    },
+    "content": ""
+  }
+}
